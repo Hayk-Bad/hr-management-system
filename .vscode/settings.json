@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.sourcePaths": [
+        "{   \"java.project.sourcePaths\": [     \"backend/src/main/java\"   ] }"
+    ],
+    "maven.view": "flat"
+}
